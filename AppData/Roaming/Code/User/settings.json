@@ -150,4 +150,7 @@
     "nhp:ssh": "linux",
     "Server:ssh": "linux"
 },
+"files.associations": {
+    "*.md": "markdown"
+},
 }
