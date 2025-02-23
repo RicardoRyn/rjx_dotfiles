@@ -186,5 +186,5 @@
         "key": "ctrl+shift+v",
         "command": "-markdown-preview-enhanced.openPreview",
         "when": "editorLangId == 'markdown'"
-    },
+    }
 ]
